@@ -1,0 +1,47 @@
+/* En tu archivo Home.css */
+
+body {
+    background-color: white; /* Fondo blanco para toda la página */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+  }
+  
+  header {
+    background-color: #56baed; /* Fondo azul para el header */
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white; /* Color del texto del enlace en el header azul */
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  .container {
+    width: 33%;
+    margin: 33px;
+    float: left;
+  }
+  
+  .rectangle {
+    background-color: #f0f0f0;
+    padding: 20px;
+    box-shadow: 5px 5px 5px #888888;
+  }
